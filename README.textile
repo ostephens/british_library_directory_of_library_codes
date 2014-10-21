@@ -1,0 +1,9 @@
+The British Library has a directory of library codes used by UK registered users of it's Document Supply service
+
+The Directory of Library Codes enables British Library customers to convert into names and addresses the library codes they are given in response to location searches. It also indicates each library's supply and charging policies.
+
+The British Library supply the list of codes as a pdf. This scraper extracts the data from the pdf and puts it into a structured database
+
+The 'Policy' field indicates the charging policy for the library, documented at http://www.bl.uk/reshelp/atyourdesk/docsupply/help/replycodes/dirlibcodes/#supply
+
+More information at http://www.bl.uk/reshelp/atyourdesk/docsupply/help/replycodes/dirlibcodes/
