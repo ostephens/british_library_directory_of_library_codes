@@ -10,7 +10,7 @@ import lxml.etree
 import collections
 import re
 
-url = "http://www.bl.uk/reshelp/atyourdesk/docsupply/help/replycodes/dirlibcodes/DLC%20MAY%20pdf.pdf"
+url = "http://www.bl.uk/reshelp/atyourdesk/docsupply/help/replycodes/dirlibcodes/dlc.pdf"
 pdfdata = urllib2.urlopen(url).read()
 #print "The pdf file has %d bytes" % len(pdfdata)
 
